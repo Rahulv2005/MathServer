@@ -139,8 +139,9 @@ urlpatterns = [
 
 ## HOMEPAGE:
 
+![5_13_2024 9_42_16 AM](https://github.com/Rahulv2005/MathServer/assets/152600335/d3f123d7-8307-40e9-9d60-aa13fe87b9d2)
 
-![WhatsApp Image 2024-05-09 at 14 27 07_956a3acf](https://github.com/Rahulv2005/MathServer/assets/152600335/cf2550d5-8f3b-4677-b455-4f9746ce398f)
+
 
 
 
